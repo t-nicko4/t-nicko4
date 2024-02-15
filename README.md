@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t-nicko4
-- 👀 I’m interested in Automation, DevOps, Data
+- 👀 I’m interested in Automation, DevOps, Data Engineer and Software Ingineering. 
 - 🌱 I’m currently learning Data Engineer
 - 💞️ I’m looking to collaborate on backends, automation and data modeling projects.
 - 📫 How to reach me ...
