@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @t-nicko4
+- 👋 Hi, I’m Wilnick
 - 👀 I’m interested in Automation, DevOps, Data Engineer and Software Ingineering. 
 - 🌱 I’m currently learning Data Engineer
 - 💞️ I’m looking to collaborate on backends, automation and data modeling projects.
